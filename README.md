@@ -12,4 +12,5 @@ Welcome to our GitHub! A Research group specializing in Computer science at Chon
 
 ### Publications
 [1] D Dai, L Xu, Y Li, Y Zhang, S Xia. Humanvlm: Foundation for human-scene vision-language model. Information Fusion, 2025.
+
 [2] D Dai, Y Zhang, Q Yang, L Xu, X Shen, S Xia, G Wang. Pathologyvlm: a large vision-language model for pathology image understanding. Artificial Intelligence Review, 2025.
